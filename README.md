@@ -20,6 +20,7 @@ Türkçe Kaynaklar [Video]
 -------------
 
  - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+ - [Developing iOS 10 Apps with Swift - Stanford](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
  - [Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) 
  - [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg)
  - [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
