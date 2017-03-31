@@ -25,6 +25,7 @@ Yabancı Kaynaklar [Video]
  - [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
  - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
  - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
+ - [Developing iOS 10 Apps with Swift - Stanford](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
 
 
 Türkçe Bloglar 
