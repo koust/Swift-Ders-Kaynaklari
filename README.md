@@ -26,6 +26,7 @@ Yabancı Kaynaklar [Video]
  - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
  - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
  - [Developing iOS 10 Apps with Swift - Stanford](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
+ - [Raywenderlich](https://www.raywenderlich.com/category/swift)
 
 
 Türkçe Bloglar 
