@@ -12,7 +12,7 @@ Türkçe Kaynaklar [Video]
 
  - [Batuhan Saygılı](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw)
  - [Kerim Çağlar](https://www.youtube.com/channel/UCKwEqVrO0t4WYOmN5kvmczA)
- - [Gio Code House](https://www.youtube.com/channel/UCF4b2yQei_5CcRwMeYG)
+ - [Gio Code House](https://www.youtube.com/channel/UCF4b2yQei_5CcRwMeYG-hig)
 
  
 Yabancı Kaynaklar [Video]
