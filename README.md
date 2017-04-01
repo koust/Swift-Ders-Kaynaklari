@@ -14,7 +14,6 @@ Türkçe Kaynaklar [Video]
  - [Kerim Çağlar](https://www.youtube.com/channel/UCKwEqVrO0t4WYOmN5kvmczA)
  - [Gio Code House](https://www.youtube.com/channel/UCF4b2yQei_5CcRwMeYG)
 
- ----------
  
 Yabancı Kaynaklar [Video]
 -------------
@@ -26,7 +25,6 @@ Yabancı Kaynaklar [Video]
  - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
  - [Duc Tran](https://www.youtube.com/channel/UCvPFGq6luCqAVGiFpzTvkIA)
  - [Developing iOS 10 Apps with Swift - Stanford](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
- - [Raywenderlich](https://www.raywenderlich.com/category/swift)
 
 
 Türkçe Bloglar 
@@ -40,3 +38,4 @@ Yabancı Bloglar
  - [Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
  - [App Coda](http://www.appcoda.com/tutorials/ios/)
  - [iOScreator](https://www.ioscreator.com/)
+ - [Raywenderlich](https://www.raywenderlich.com/category/swift)
