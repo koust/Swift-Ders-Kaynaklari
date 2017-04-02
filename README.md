@@ -39,3 +39,4 @@ Yabancı Bloglar
  - [App Coda](http://www.appcoda.com/tutorials/ios/)
  - [iOScreator](https://www.ioscreator.com/)
  - [Raywenderlich](https://www.raywenderlich.com/category/swift)
+ - [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
