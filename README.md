@@ -28,6 +28,7 @@ Yabancı Kaynaklar [Video]
  - [Developing iOS 10 Apps with Swift - Stanford](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120)
  - [Vasil Nunev](https://www.youtube.com/channel/UCAeJCNyDzN1NxKD2IdCC7Pw/videos)
  - [Akhmed Idigov](https://www.youtube.com/channel/UC8hkrhsfC5Df1YwCAqpDwIw/videos)
+ - [MACentral - MobileAppCentral](https://www.youtube.com/channel/UCFW2k9hG2x_osZRvPk6pasQ/videos)
 
 
 Türkçe Bloglar 
