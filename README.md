@@ -36,6 +36,7 @@ Türkçe Bloglar
 - [Sefa Ayçicek](http://sefaaycicek.com/)
 - [Kod5](http://kod5.org/category/programlama/swift/)
 - [Halil Özel](https://medium.com/@halilozel1903)
+- [Atakan Cengiz KURT](https://www.atakancengizkurt.com)
 
 
 Yabancı Bloglar 
